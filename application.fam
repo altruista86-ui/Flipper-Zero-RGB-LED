@@ -11,5 +11,5 @@ App(
     fap_version=(1, 0),
     fap_category="Tools",
     fap_description="Controller for the built-in RGB status LED",
-    fap_author="Lukasz + OpenAI",
+    fap_author="Lukasz",
 )
